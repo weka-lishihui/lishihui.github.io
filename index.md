@@ -26,5 +26,5 @@ You can use the [editor on GitHub](https://github.com/weka-lishihui/lishihui.git
 
 ### 图片测试
 
-![图片测试](https://github.com/weka-lishihui/lishihui.github.io/blob/master/timg.jpg?raw=true)
+![图片](https://github.com/weka-lishihui/lishihui.github.io/blob/master/timg.jpg?raw=true)
 

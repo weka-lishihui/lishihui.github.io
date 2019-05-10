@@ -19,7 +19,7 @@ You can use the [editor on GitHub](https://github.com/weka-lishihui/lishihui.git
 ```
 ### 加粗测试
 ** 测试 **
-`斜体`
+
 
 ### 网址测试
 [百度](http://www.baidu.com)

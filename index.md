@@ -28,3 +28,5 @@ You can use the [editor on GitHub](https://github.com/weka-lishihui/lishihui.git
 
 ![图片](https://github.com/weka-lishihui/lishihui.github.io/blob/master/timg.jpg?raw=true)
 
+"Hello world 你好中国"
+

@@ -3,41 +3,28 @@
 You can use the [editor on GitHub](https://github.com/weka-lishihui/lishihui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### 联系方式
--手机：18487223093
--Email：lishihui0129@163.com
+- 手机：18487223093
+- Email：lishihui0129@163.com
 ### 个人信息
 - 姓名
 - 年龄
 - 工作年限
 - 技术博客
-- Github
+- Github https://github.com/weka-lishihui
+### 工作经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-linshihui
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+代码块测试
+```
+### 加粗测试
+** 测试 **
+`斜体`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 网址测试
+[百度](http://www.baidu.com)
 
-### Jekyll Themes
+### 图片测试
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weka-lishihui/lishihui.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](src)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -30,3 +30,5 @@ You can use the [editor on GitHub](https://github.com/weka-lishihui/lishihui.git
 
 "Hello world 你好中国"
 
+我是kettle提交的内容
+

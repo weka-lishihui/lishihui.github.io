@@ -34,7 +34,7 @@ You can use the [editor on GitHub](https://github.com/weka-lishihui/lishihui.git
 [echart图片测试](https://weka-lishihui.github.io/lishihui.github.io/echartdemo.html)
 
 ### 视频测试
-<iframe width="560" height="315" src="https://weka-lishihui.github.io/lishihui.github.io/videos/mydream.mp4?autoplay = false" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://weka-lishihui.github.io/lishihui.github.io/videos/mydream.mp4" frameborder="0" allowfullscreen autoplay = "false"></iframe>
 
 ### 视频测试二
 [视频播放](https://weka-lishihui.github.io/lishihui.github.io/videos/mydream.mp4)

@@ -31,3 +31,4 @@ You can use the [editor on GitHub](https://github.com/weka-lishihui/lishihui.git
 "Hello world 你好中国"
 
 weka添加了内容
+[echart图片测试](https://github.com/weka-lishihui/lishihui.github.io/blob/master/echartdemo.html)

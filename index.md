@@ -32,3 +32,6 @@ You can use the [editor on GitHub](https://github.com/weka-lishihui/lishihui.git
 
 - weka添加了内容
 [echart图片测试](https://weka-lishihui.github.io/lishihui.github.io/echartdemo.html)
+
+### 视频测试
+<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
